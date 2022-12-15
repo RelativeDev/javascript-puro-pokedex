@@ -1,5 +1,7 @@
 # javascript-puro-pokedex
 
+GitHub Pages -> https://relativedev.github.io/javascript-puro-pokedex/
+
 ---
 
 ![poke5](https://user-images.githubusercontent.com/63134747/207460124-778ce9fe-041a-4c9d-a591-4894c2dac4af.png)
